@@ -1,0 +1,15 @@
+/**
+*
+* style.css
+* @author- Arshath
+* @date- 29/11/2022
+*/
+.time {
+    display: flex;
+    border: none;
+    border-radius: 5px;
+    column-gap: 6px;
+    padding: 10px 15px 5px;
+    margin: 100px;
+    background: blue;
+}

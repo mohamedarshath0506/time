@@ -1,0 +1,14 @@
+/**
+*
+* layout.css
+* @author- Arshath
+* @date- 29/11/2022
+*/
+.row {
+    display: flex;
+    flex-direction: row;
+}
+.column {
+    display: flex;
+    flex-direction: column;
+}

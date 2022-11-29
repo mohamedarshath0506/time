@@ -1,0 +1,19 @@
+/**
+*
+* base.css
+* @author- Arshath
+* @date- 29/11/2022
+*/
+body {
+font-size: 16px;
+font-family: sans-serif;
+padding: 0;
+margin: 0;
+color: #000;
+background-color: #fff;
+}
+h1 {
+    font-size: 50px;
+    margin: 0;
+    color: #fff;
+}
